@@ -56,8 +56,13 @@ QMK Toolbox
 https://github.com/qmk/qmk_toolbox/releases
 <img width="603" alt="스크린샷 2021-10-03 오후 11 48 50" src="https://user-images.githubusercontent.com/91782246/135759217-e21f7cad-a057-4379-89e5-12238ecb0e04.png">
 
+한대씩 연결하여
 아두이노 RST, GND 연결
 노란색 Connect표시가 뜨면 Flash 클릭
+하나의 바이너리 파일로 왼쪽, 오른쪽 모두 Flash 가능
+
+## 7. 기본 설정
+기본 설정은 왼쪽 키보드에 USB 연결하도록 설정되어 있음 keymap/config.h 에서 변경 가능
 
 ## ETC
 104키 키보드 키캡 사이즈 
@@ -67,6 +72,8 @@ star 한번씩 눌러주시면 감사드리겠습니다..ㅎ
 
 ## 수정사항
 21.01.10 hexfile Trrs 2번에서 3번으로 수정
+
+24.04.12 최신 QMK에서 컴파일 가능하도록 수정(HEX file 수정)
 
 ## 상업적 이용 금지합니다!
  
