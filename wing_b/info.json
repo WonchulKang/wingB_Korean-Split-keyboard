@@ -1,6 +1,12 @@
 {
-    "keyboard_name": "WingB",
+    "keyboard_name": "wing_b",
+    "manufacturer": "mastery6",
     "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x6666",
+        "vid": "0xFEED"
+    },
     "maintainer": "qmk",
     "width": 17,
     "height": 9,

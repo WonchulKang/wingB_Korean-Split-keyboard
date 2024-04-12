@@ -1,5 +1,5 @@
 #include QMK_KEYBOARD_H
-#include "wingB.h"
+#include "wing_b.h"
 
 
 #define _QWERTY 0

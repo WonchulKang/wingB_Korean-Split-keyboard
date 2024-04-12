@@ -1,4 +1,4 @@
-#include "wingB.h"
+#include "wing_b.h"
 
 void matrix_init_kb(void) {
 
